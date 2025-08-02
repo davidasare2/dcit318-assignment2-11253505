@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\bin\Debug\net9.0\MovableApp.exe
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\bin\Debug\net9.0\MovableApp.deps.json
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\bin\Debug\net9.0\MovableApp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\bin\Debug\net9.0\MovableApp.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\bin\Debug\net9.0\MovableApp.pdb
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\MovableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\MovableApp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\MovableApp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\MovableApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\MovableApp.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\MovableApp.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\refint\MovableApp.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\MovableApp.pdb
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\MovableApp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\dcit318-assignment2-11253505\MovableApp\obj\Debug\net9.0\ref\MovableApp.dll
