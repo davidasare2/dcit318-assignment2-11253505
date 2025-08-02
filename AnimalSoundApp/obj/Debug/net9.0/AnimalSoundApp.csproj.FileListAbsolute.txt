@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\bin\Debug\net9.0\AnimalSoundApp.exe
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\bin\Debug\net9.0\AnimalSoundApp.deps.json
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\bin\Debug\net9.0\AnimalSoundApp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\bin\Debug\net9.0\AnimalSoundApp.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\bin\Debug\net9.0\AnimalSoundApp.pdb
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\AnimalSoundApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\AnimalSoundApp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\AnimalSoundApp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\AnimalSoundApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\AnimalSoundApp.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\refint\AnimalSoundApp.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\AnimalSoundApp.pdb
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\AnimalSoundApp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318-assignment2\AnimalSoundApp\obj\Debug\net9.0\ref\AnimalSoundApp.dll
